@@ -24,5 +24,13 @@ img{
 
 #special2{
     color:darksalmon;
-    background-color:#FFB6C1 ;
+    background-color:#FFB6C1;
+}
+
+hr{
+    border: 2px solid purple;
+}
+
+#burger{
+    2px:color:lavender;
 }
