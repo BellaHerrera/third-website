@@ -16,3 +16,13 @@ img{
 img{ 
     border: 50%;
 }
+
+#special{
+    color: #E6E6FA;
+    background-color: cornflowerblue;
+}
+
+#special2{
+    color:darksalmon;
+    background-color:#FFB6C1 ;
+}
