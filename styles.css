@@ -1,36 +1,46 @@
-body{
-background-color: rgb(245, 163, 190);
-color:white;
-}
-h1{
-    color:blueviolet;
-}
-p{
-    color:rgb(187, 71, 96);
+body {
+    background-color: rgb(245, 163, 190);
+    color: white;
 }
 
-img{
+h1 {
+    color: blueviolet;
+}
+
+p {
+    color: rgb(187, 71, 96);
+}
+
+img {
     border: 50%;
 }
 
-img{ 
+img {
     border: 50%;
 }
 
-#special{
+#special {
     color: #E6E6FA;
     background-color: cornflowerblue;
 }
 
-#special2{
-    color:darksalmon;
-    background-color:#FFB6C1;
+#special2 {
+    color: darksalmon;
+    background-color: #FFB6C1;
 }
 
-hr{
+hr {
     border: 2px solid purple;
 }
 
-#burger{
-    2px:color:lavender;
+#burger {
+    2px: color:lavender;
+}
+
+ol{
+    color:aqua;
+}
+
+ul{
+    color:azure;
 }
